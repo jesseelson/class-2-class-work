@@ -1,0 +1,12 @@
+1.) What are data types?
+Data types are strings, numbers, Booleans, objects and arrays.
+
+2.) What are operators used for?
+operators are used to combine differetn data types together.
+
+3.) What are conditional statements?
+Conditional statements determine rather or not a piece of code can be ran or not. 
+Example an if and if else statement
+
+4.) What are loops?
+Loops a a block of code that will run until  certain condition is met. 
